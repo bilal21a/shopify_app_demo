@@ -1,0 +1,7 @@
+# SHOPIFY_APP_HOST_NAME="https/quickstart-1825f737.myshopify.com"
+# SHOPIFY_API_KEY="your_api_key"
+# SHOPIFY_API_SECRET="your_api_secret"
+# SHOPIFY_API_SCOPES="read_products,write_products,read_themes,write_themes,read_orders,read_customers"
+# SHOPIFY_API_VERSION="2024-07"
+# SHOPIFY_ACCESS_TOKEN="your_ref_token"
+# SHOPIFY_NAME="quickstart-1825f737.myshopify.com"
